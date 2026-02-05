@@ -1,0 +1,13 @@
+# Vercel
+.vercel
+
+# macOS
+.DS_Store
+
+# Editor directories
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
